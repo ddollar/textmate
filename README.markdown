@@ -1,3 +1,7 @@
+# UNMAINTAINED
+
+I have switched to vim and no longer use this. If anyone would like to take over maintenance, please feel free to fork and I'll provide a link here.
+
 # textmate
 
 A binary that provides package management for TextMate.
